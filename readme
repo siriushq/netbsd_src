@@ -2,13 +2,11 @@ siriushq/netbsd_src
 ===================
 
 NetBSD is a free, fast, secure, and highly portable Unix-like
-open-source operating system.  This repository hosts a mirror of the
-source-code, available in the `trunk` branch, retrieved from the
-official Git mirror of the CVS repository.  There are several guides 
-for kernel developers and users, the formatted guide is available at:
+open-source operating system.
+
+This repository hosts a mirror of the source code, available in the
+`upstream` branch, retrieved from the official Git mirror of the CVS
+repository, tracking `trunk`.  There are several guides for developers
+and users, the formatted guide is available at:
 
 	https://www.netbsd.org/docs/guide/en/
-
-This repository is maintained to provide a Git workflow for forks and
-other projects that depend on the NetBSD source tree.  The `trunk`
-branch is the exclusive tracking-branch for every dependent.
